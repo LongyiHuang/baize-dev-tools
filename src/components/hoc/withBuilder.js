@@ -17,8 +17,10 @@ const wihtBuilder = (build) => (WrappedComponent) => {
         }
 
         handleBulid = () => {
+            console.log("Build")
+            const text = build();
             this.setState({
-                text:build,
+                text:text,
                 copied:false
             })
         }

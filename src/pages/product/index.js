@@ -7,7 +7,7 @@ import PropTypes from "prop-types";
 
 
 
-const ProductCodeComponent = withBuilder(getProductCode())(props => {
+const ProductCodeComponent = withBuilder(getProductCode)(props => {
     const {text,copied,onCopy,onBuild} = props;
     return (
         <Row type="flex" align="middle" justify="center" gutter={10}>
@@ -40,8 +40,8 @@ const ProductCodeComponent = withBuilder(getProductCode())(props => {
 ProductCodeComponent.propTypes = {
     text:PropTypes.string,
     copied:PropTypes.bool,
-    onBuild:PropTypes.func.isRequired,
-    onCopy:PropTypes.func.isRequired
+    onBuild:PropTypes.func,
+    onCopy:PropTypes.func
 }
 
 

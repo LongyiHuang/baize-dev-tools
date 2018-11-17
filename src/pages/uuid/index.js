@@ -7,9 +7,11 @@ import PropTypes from "prop-types";
 import withBuilder from '../../components/hoc/withBuilder';
 import {getUUID} from '../../utils'
 
+const getUUIDWithParams = () => {
+    return getUUID(32,16);
+}
 
-
-const UUIDComponent = withBuilder(getUUID(32,16))(props => {
+const UUIDComponent = withBuilder(getUUIDWithParams)(props => {
     const {text,copied,onCopy,onBuild} = props;
     return (
         <Row type="flex" align="middle" justify="center" gutter={10}>
@@ -42,8 +44,8 @@ const UUIDComponent = withBuilder(getUUID(32,16))(props => {
 UUIDComponent.propTypes = {
     text:PropTypes.string,
     copied:PropTypes.bool,
-    onBuild:PropTypes.func.isRequired,
-    onCopy:PropTypes.func.isRequired
+    onBuild:PropTypes.func,
+    onCopy:PropTypes.func
 }
 
 export default UUIDComponent;
