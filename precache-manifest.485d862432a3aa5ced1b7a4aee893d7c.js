@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/baize-dev-tools/static/js/runtime~main.cce26ce3.js"
   },
   {
-    "revision": "6cf52866a9ef5392b333",
-    "url": "/baize-dev-tools/static/js/main.6cf52866.chunk.js"
+    "revision": "2b8be60e9be9b4904b66",
+    "url": "/baize-dev-tools/static/js/main.2b8be60e.chunk.js"
   },
   {
     "revision": "26c34e87e20038bcfe36",
     "url": "/baize-dev-tools/static/js/1.26c34e87.chunk.js"
   },
   {
-    "revision": "6cf52866a9ef5392b333",
+    "revision": "2b8be60e9be9b4904b66",
     "url": "/baize-dev-tools/static/css/main.5886e7f2.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/baize-dev-tools/static/css/1.7307293f.chunk.css"
   },
   {
-    "revision": "b6e73ce6eba2c7d1c373e965953c178d",
+    "revision": "dc2d4ca110f8d3246e11b5b86e48e315",
     "url": "/baize-dev-tools/index.html"
   }
 ];

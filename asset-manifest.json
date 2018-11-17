@@ -1,16 +1,16 @@
 {
   "main.css": "/baize-dev-tools/static/css/main.5886e7f2.chunk.css",
-  "main.js": "/baize-dev-tools/static/js/main.6cf52866.chunk.js",
-  "main.js.map": "/baize-dev-tools/static/js/main.6cf52866.chunk.js.map",
+  "main.js": "/baize-dev-tools/static/js/main.2b8be60e.chunk.js",
+  "main.js.map": "/baize-dev-tools/static/js/main.2b8be60e.chunk.js.map",
   "static/css/1.7307293f.chunk.css": "/baize-dev-tools/static/css/1.7307293f.chunk.css",
   "static/js/1.26c34e87.chunk.js": "/baize-dev-tools/static/js/1.26c34e87.chunk.js",
   "static/js/1.26c34e87.chunk.js.map": "/baize-dev-tools/static/js/1.26c34e87.chunk.js.map",
   "runtime~main.js": "/baize-dev-tools/static/js/runtime~main.cce26ce3.js",
   "runtime~main.js.map": "/baize-dev-tools/static/js/runtime~main.cce26ce3.js.map",
-  "static/css/1.7307293f.chunk.css.map": "/baize-dev-tools/static/css/1.7307293f.chunk.css.map",
-  "static/media/baize.jpg": "/baize-dev-tools/static/media/baize.012af2b4.jpg",
   "static/css/main.5886e7f2.chunk.css.map": "/baize-dev-tools/static/css/main.5886e7f2.chunk.css.map",
+  "static/media/baize.jpg": "/baize-dev-tools/static/media/baize.012af2b4.jpg",
+  "static/css/1.7307293f.chunk.css.map": "/baize-dev-tools/static/css/1.7307293f.chunk.css.map",
   "index.html": "/baize-dev-tools/index.html",
-  "precache-manifest.4d0792cd20240efe493cd4a0a9c5f881.js": "/baize-dev-tools/precache-manifest.4d0792cd20240efe493cd4a0a9c5f881.js",
+  "precache-manifest.485d862432a3aa5ced1b7a4aee893d7c.js": "/baize-dev-tools/precache-manifest.485d862432a3aa5ced1b7a4aee893d7c.js",
   "service-worker.js": "/baize-dev-tools/service-worker.js"
 }
