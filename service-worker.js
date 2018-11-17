@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/github.io/baize-dev-tools/precache-manifest.85f5c9f12e58a8b8c993295434d91bc6.js"
+  "/baize-dev-tools/precache-manifest.27c8bfe28e89ed3d4b0d00919f1d47ec.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/github.io/baize-dev-tools/index.html", {
+workbox.routing.registerNavigationRoute("/baize-dev-tools/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
