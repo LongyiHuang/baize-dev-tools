@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/baize-dev-tools/static/css/1.7307293f.chunk.css"
   },
   {
-    "revision": "9dc921bbd6bdae3fc66054d1ed383f93",
+    "revision": "b6e73ce6eba2c7d1c373e965953c178d",
     "url": "/baize-dev-tools/index.html"
   }
 ];

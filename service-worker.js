@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/baize-dev-tools/precache-manifest.27c8bfe28e89ed3d4b0d00919f1d47ec.js"
+  "/baize-dev-tools/precache-manifest.4d0792cd20240efe493cd4a0a9c5f881.js"
 );
 
 workbox.clientsClaim();
