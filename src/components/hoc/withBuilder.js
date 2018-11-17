@@ -38,4 +38,6 @@ const wihtBuilder = (build) => (WrappedComponent) => {
     }
 }
 
+
+
 export default wihtBuilder;
